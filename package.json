@@ -46,7 +46,7 @@
     "cosmiconfig": "^5.2.0",
     "debug": "^4.1.1",
     "execall": "^2.0.0",
-    "file-entry-cache": "^5.0.1",
+    "file-entry-cache": "^8.0.0",
     "get-stdin": "^7.0.0",
     "global-modules": "^2.0.0",
     "globby": "^9.2.0",
