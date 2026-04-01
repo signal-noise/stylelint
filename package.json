@@ -69,7 +69,7 @@
     "postcss-less": "^3.1.4",
     "postcss-markdown": "^0.36.0",
     "postcss-media-query-parser": "^0.2.3",
-    "postcss-reporter": "^6.0.1",
+    "postcss-reporter": "^7.0.0",
     "postcss-resolve-nested-selector": "^0.1.1",
     "postcss-safe-parser": "^4.0.1",
     "postcss-sass": "^0.4.1",
@@ -86,7 +86,7 @@
     "style-search": "^0.1.0",
     "sugarss": "^2.0.0",
     "svg-tags": "^1.0.0",
-    "table": "^5.2.3",
+    "table": "^6.0.2",
     "v8-compile-cache": "^2.1.0"
   },
   "devDependencies": {
